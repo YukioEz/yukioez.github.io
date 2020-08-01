@@ -1,10 +1,8 @@
 {
-    "title": "Title Field",
+    "author_name": "AkioEz.",
+    "author_url": "https://yukioez.github.io",
  
-    "author_name": "Author Name Field",
-    "author_url": "https://discordapp.com",
- 
-    "provider_name": "Provider Name Field",
-    "provider_url": "https://discordapp.com"
+    "provider_name": "Akio's House",
+    "provider_url": "https://yukioez.github.io"
  }
  
