@@ -1,7 +1,10 @@
 {
-    "title": "Dunno what to say but its hella good!",
-    "author_name": "YukioEz",
-    "author_url": "yukioez.github.io",
-    "provider_name": "I love pastas, join me.",
-    "provider_url": "yukioez.github.io"
-}
+    "title": "Title Field",
+ 
+    "author_name": "Author Name Field",
+    "author_url": "https://discordapp.com",
+ 
+    "provider_name": "Provider Name Field",
+    "provider_url": "https://discordapp.com"
+ }
+ 
