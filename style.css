@@ -104,11 +104,7 @@ html, body{
 
 } 
 
-.nav-links.nav-active{
-   width:100%;
-   }
-
-
+.
 @keyframes navLinkFade{
     from{
         opacity: 0;
