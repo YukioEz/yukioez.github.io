@@ -98,10 +98,15 @@ html, body{
 
 .nav-active{
     transform: translateX(0%);
-   display: block;
-}
 
 
+
+
+} 
+
+.nav-links.nav-active{
+   display:block
+   }
 
 @keyframes navLinkFade{
     from{
