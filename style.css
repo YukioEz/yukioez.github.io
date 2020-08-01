@@ -105,7 +105,7 @@ html, body{
 } 
 
 .nav-links.nav-active{
-   display:block
+   display:flex;
    }
 
 @keyframes navLinkFade{
