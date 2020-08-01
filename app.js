@@ -5,7 +5,7 @@ const navSlide = () => {
     const navactive = document.querySelector(".nav-links.nav-active" )
     burger.addEventListener("click",() => {
         nav.classList.toggle("nav-active")
-        navactive.style.display = "block" 
+
         
     });
     navlinks.forEach((link, index)=>{
