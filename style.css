@@ -83,7 +83,7 @@ html, body{
         width: 100%;
         transform: translateX(100%);
         transition: transform 0.5s ease-in;
-        display:none;
+       
     }
 
     .nav-links li{
@@ -104,9 +104,6 @@ html, body{
 
 } 
 
-.nav-links.nav-active{
-   display:flex;
-   }
 
 @keyframes navLinkFade{
     from{
