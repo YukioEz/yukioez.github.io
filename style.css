@@ -100,12 +100,3 @@ nav{
     transform: translateX(0%);
     display: flex;
 } 
-
-@keyframes navLinkFade{
-    from{
-        opacity: 0;
-    }
-    to{
-        opacity: 1;
-    }
-}
