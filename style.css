@@ -55,14 +55,11 @@ nav{
     .nav-links{
         width: 60%;
     }
-<<<<<<< HEAD
-=======
 
     body{
         overflow-x: hidden;
        
     }
->>>>>>> 55a06b46a4757ba5b9bced170c1e531801f779b1
 }
 
 nav{
@@ -72,10 +69,7 @@ nav{
 @media screen and (max-width:768px){
     body{
         overflow-x: hidden;
-<<<<<<< HEAD
-=======
 
->>>>>>> 55a06b46a4757ba5b9bced170c1e531801f779b1
     }
     .nav-links{
         position: absolute;
@@ -110,7 +104,6 @@ nav{
 
 } 
 
-.
 @keyframes navLinkFade{
     from{
         opacity: 0;
