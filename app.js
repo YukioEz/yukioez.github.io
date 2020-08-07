@@ -4,7 +4,6 @@ const navSlide = () => {
    
     burger.addEventListener("click",() => {
         nav.classList.toggle("nav-active")
-        nav.style.animation = "navactiveFade 2s 2s forward"
     });
 }
 
