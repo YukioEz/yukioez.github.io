@@ -99,3 +99,13 @@ nav{
     display: flex;
 }
 
+@keyframes navactiveFade{
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+
+
