@@ -99,5 +99,6 @@ nav{
 .nav-active{
     transform: translateX(0%);
     display: flex;
+    transition: ease 0.5s;
 } 
 
