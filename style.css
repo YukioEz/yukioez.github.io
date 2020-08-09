@@ -77,7 +77,6 @@ nav{
         height: 92vh;
         top: 8vh;
         background-color: var(--primary-bg);
-        display: none;
         flex-direction: column;
         align-items: center;
         width: 100%;
@@ -104,6 +103,7 @@ nav{
 
 .close{
     animation: close 0.5s;
+    display: none;
 }
 
   @keyframes open {
