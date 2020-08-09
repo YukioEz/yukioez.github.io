@@ -100,8 +100,7 @@ nav{
 }
 
 .animate-left {
-    position: relative;
-    animation: animateleft 0.4s
+    animation: animateleft 1s
   }
   @keyframes animateleft {
     from {
