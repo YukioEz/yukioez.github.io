@@ -97,11 +97,10 @@ nav{
 
 .nav-active{
     display: flex;
-}
-
-.open{
     animation: open 0.5s;
 }
+
+
 
 .close{
     animation: close 0.5s;
