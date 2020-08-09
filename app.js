@@ -3,7 +3,8 @@ const navSlide = () => {
     const nav = document.querySelector(".nav-links")
    
     burger.addEventListener("click",() => {
-        nav.classList.toggle("nav-active animate-left")
+        nav.classList.toggle("nav-active")
+        nav.classList.toggle("animate-left")
     });
 }
 
