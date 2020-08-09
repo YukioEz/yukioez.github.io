@@ -10,8 +10,7 @@ const navSlide = () => {
         nav.classList.toggle('close')
     }
     burger.addEventListener("click",() => {
-        nav.classList.toggle("nav-active")
-        nav.classList.toggle('open close')
+        nav.classList.toggle('nav-active open close')
     });
 }
 
