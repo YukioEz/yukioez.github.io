@@ -97,11 +97,9 @@ nav{
 
 .nav-active{
     display: flex;
+    animation: animateleft 1s
 }
 
-.animate-left {
-    animation: animateleft 1s
-  }
   @keyframes animateleft {
     from {
       opacity: 0
